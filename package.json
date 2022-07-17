@@ -4,5 +4,9 @@
   "devDependencies": {
     "lerna": "^5.1.8",
     "nx": "^14.4.3"
+  },
+  "scripts": {
+    "start": "lerna run start",
+    "diff": "lerna run diff"
   }
 }
